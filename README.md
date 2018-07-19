@@ -1,4 +1,6 @@
 # Keepest-Android
+![logo](https://imgur.com/fzC5kNd.png)
+
 Keepest is a language learning app for creating personalized dictionaries.
 Currently available on the Play store.
 
