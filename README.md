@@ -12,5 +12,10 @@ We use GitHub for bug tracking. Please search the existing issues for your bug a
 ## Contributing Translations
 All contributions are welcome.
 
+## Contributors
+<a href="https://github.com/mendezand">mendezad</a> : icon, promo graphics
+
+<a href="https://github.com/guland2000">guland2000</a> : Russian translation
+
 Copyright 2018 Jacek Markowski
 
