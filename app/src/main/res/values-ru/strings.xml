@@ -21,10 +21,6 @@
   -->
 
 <resources>
-    <string name="app_name" translatable="false">Keepest</string>
-
-    <string name="navigation_drawer_open" translatable="false">Открыть боковое меню</string>
-    <string name="navigation_drawer_close" translatable="false">Закрыть боковое меню</string>
 
     <string name="nav_settings">Настройки</string>
     <string name="nav_default_dictionary">список по умолчанию</string>
@@ -69,7 +65,6 @@
     <string name="correct">Правильно:</string>
     <string name="wrong">Неверно:</string>
     <string name="score">Очки:</string>
-    <string name="_0_percent" translatable="false">0 %</string>
     <string name="number_of_questions">Количество вопросов</string>
     <string name="start_session">Начать урок</string>
     <string name="word">Слово</string>
@@ -114,7 +109,6 @@
     <string name="gdrive_upload_success">Файл загружен!</string>
     <string name="edit">Изменить</string>
     <string name="search_in_english">Поиск на английском</string>
-    <string name="show_gif" translatable="false">GIF</string>
     <string name="connecting_to_gdrive">Соединение с Google Drive...</string>
     <string name="cache_title">Кэш</string>
     <string name="cache_settings">Настройки Кэш</string>
@@ -129,12 +123,9 @@
     <string name="flashcards_mode">Флэшкарточки</string>
     <string name="enter_answer">Ввести ответ</string>
     <string name="check">Проверка</string>
-    <string name="hint" translatable="false">❓</string>
     <string name="source_code">Исходный код</string>
-    <string name="tts_settings" translatable="false">Синтез голоса</string>
     <string name="tts_settings_edit">TextToSpeech</string>
     <string name="learning_mistakes">Ошибки:</string>
-    <string name="action_paste" translatable="false">вставить</string>
     <string name="clipboard_empty">Буфер обмена пуст.</string>
 
 
@@ -368,9 +359,6 @@
     <string name="word_moved">Слово перемещено.</string>
     <string name="cut_word">Обрезано.</string>
     <string name="copy_word">Скопировано.</string>
-    <string name="engine_one" translatable="false">Движок TTS: 1</string>
-    <string name="engine_two" translatable="false">Движок TTS: 2</string>
-    <string name="google_translate" translatable="false">Google Translate</string>
     <string name="add_rule">Добавить Правило</string>
     <string name="default_engine">Движок TTS по умолчанию</string>
     <string name="engine_1">Движок TTS 1</string>
