@@ -23,6 +23,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               xmlns:tools="http://schemas.android.com/tools"
               android:layout_width="350dp"
+              android:layoutDirection="ltr"
               android:layout_height="600dp"
               android:orientation="vertical"
               tools:context=".main_activity.fragment.WordFragment">
